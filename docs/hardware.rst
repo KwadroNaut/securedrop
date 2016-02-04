@@ -256,7 +256,7 @@ any of the new generation of NUCs, which have names starting with "NUC5"
 These NUCs have wireless networking built into the motherboard, and it
 is impossible to physically remove.
 
-A note aboutH i-DPI displays
+A note aboutH Hi-DPI displays
 ''''''''''''''''''''''''''''
 Older versions of Tails (before 2.0, based on Debian 8), had problems to scale the
 resolution correctly. This has mostly been fixed in current versions. You might want
