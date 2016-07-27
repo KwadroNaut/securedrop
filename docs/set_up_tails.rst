@@ -93,7 +93,7 @@ Some other things to keep in mind:
    later <onboarding>`.
 
 -  Journalists and admins will eventually need to remember these
-   passphrases. We recommend using spaced-repetition to memorize
+   passphrases. We recommend using `spaced-repetition<https://en.wikipedia.org/wiki/Spaced_repetition>`__ to memorize
    Diceware passphrases.
 
 .. warning:: Make sure that you never use the *Secure Viewing Station*
